@@ -1,0 +1,18 @@
+.container {
+  background: linear-gradient(
+    180.3deg,
+    rgb(214, 224, 255) 37.2%,
+    rgb(254, 168, 168) 137.3%
+  );
+  border: 2px solid #ebf7fd;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  font-family: "Roboto Slab", serif;
+  padding: 25px 25px;
+  max-width: 540px;
+  margin-top: 30px;
+}
+
+footer {
+  font-size: 13px;
+}

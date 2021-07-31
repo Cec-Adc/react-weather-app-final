@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather />
       </div>
-      <footer className="mt-3">
+      <footer className="mt-4">
         <a
           href="https://github.com/Cec-Adc/react-weather-app-final"
           target="_blank"

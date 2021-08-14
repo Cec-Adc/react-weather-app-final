@@ -69,3 +69,19 @@ h1,
 .description::first-letter {
   text-transform: capitalize;
 }
+
+@media (max-width: 600px) {
+  .Weather,
+  h1,
+  .current-temperature,
+  .date-hour,
+  .precipitation,
+  .description,
+  .wind {
+    text-align: center;
+  }
+
+  .search-button {
+    margin-top: 10px;
+  }
+}

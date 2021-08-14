@@ -16,9 +16,20 @@
 
 .WeatherForecast-temperatures {
   font-size: 11px;
+  margin-bottom: 5px;
 }
 
 .WeatherForecast-day {
   font-size: 13px;
   font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  .WeatherForecast-day {
+    font-size: 12px;
+  }
+
+  .WeatherForecast-temperatures {
+    font-size: 10px;
+  }
 }

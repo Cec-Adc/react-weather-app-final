@@ -15,5 +15,10 @@
 }
 
 .WeatherForecast-temperatures {
+  font-size: 11px;
+}
+
+.WeatherForecast-day {
   font-size: 13px;
+  font-weight: bold;
 }
